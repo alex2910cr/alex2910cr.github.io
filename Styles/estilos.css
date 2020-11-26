@@ -2,11 +2,11 @@ body{
     background: #5D6D7E;
 }
 
-h1 {
+h1,h2,h3 {
 font-style: arial;
 color: white;
 }
 
-.div title{
+div title{
 color: #F08080;
 }
